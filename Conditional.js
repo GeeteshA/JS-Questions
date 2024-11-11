@@ -80,6 +80,28 @@ console.log(a&b)
 // console.log(a++);
 // console.log(a)
 
+
+// Program to find greatest No. i three numbers 
 function threeNum(num1,num2,num3){
-    if( num1 )
+    if( num1 > num2 && num1 > num3 ){
+        console.log(`${num1} is Greater`)
+    }
+    else if( num2 > num1 && num2 > num3 ){
+        console.log(`${num2} is Greater`)
+    }
+    else console.log(`${num3} is Greater`)
 }
+threeNum(4,5,7)
+
+// Program to find smallest No. i three numbers 
+function threeNumSmall(num1,num2,num3){
+    if( num1 < num2 && num1 < num3 ){
+        console.log(`${num1} is smallest`)
+    }
+    else if( num2 < num1 && num2 < num3 ){
+        console.log(`${num2} is smallest`)
+    }
+    else console.log(`${num3} is smallest`)
+}
+threeNumSmall(4,5,1)
+
