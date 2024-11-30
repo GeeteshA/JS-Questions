@@ -1,0 +1,48 @@
+Logic Qustions Using Javascript
+
+-> Fibonacci series
+-> Palindrome number
+-> Reverse print
+-> Prime number in range
+-> HCF and LCM
+-> Swap number without using third variable
+-> Factorial
+-> Perfect number
+-> Antomorphic number
+-> Strong number
+-> Armstrong number
+-> Happy number
+-> Neon number
+-> Pattern - Box, Triange right and left angle
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Mini Project with Vanilla and React
+
+-> Calculator
+-> ToDo App
+-> Weather App
+-> Currency convetor
+-> Expense tracker
+-> Tic Tac Toe
+
+---------------------------------------------------------------------------------------------------------------------------
+
+React Machine Coding
+
+-> Create a form that includes validation, error messages, and shows a success notification upon submission & Create a form where user input is tracked and can be submitted after validation.(write tests for that too)
+-> Design a modal dialog component with the ability to open/close and manage state
+-> Build a simple shopping cart application that tracks the total price and quantity of items in the cart using React state.
+-> Create a theme toggle using React Context, allowing users to switch between dark and light mode.
+-> Create a search functionality where data is fetched from an API and displayed as a list with pagination.
+-> Build a component that displays data from an API and shows a loading spinner while the request is pending and an error message if the request fails.
+-> Create a dynamic routing system where the page content changes based on the route parameters (e.g., user profile page).
+-> Build a virtualized list component that renders only the visible items to optimize performance.
+-> Create a component that displays a dropdown menu when the user clicks a button.
+-> Build a search bar that filters a list of items based on the user’s input.
+-> Implement a drag-and-drop interface where users can reorder a list of items.
+-> Implement a responsive layout for a card component using styled-components or CSS Modules.
+-> Create a navigation bar that collapses into a hamburger menu on mobile screens.
+-> Implement lazy loading for a set of images or components to improve initial load time.
+-> Create a date picker component that works consistently across modern browsers.
+-> Create different Pagination functionality.

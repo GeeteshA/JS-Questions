@@ -211,4 +211,34 @@ function findLcm(num1,num2){
         lcm++;
     } return lcm;
 }
-console.log(findLcm(12,18))
+// console.log(findLcm(12,18))
+
+// HCF of Numbers 
+function findHcf(num1, num2) {
+    let smaller = ( num1 < num2) ? num1 : num2;
+    
+    for ( let i = smaller; i >= 1; i--){
+        if ( num1 % i === 0 && num2 % i === 0 ){
+            return i;
+        }
+    }
+}
+// let result = findHcf(12,18);
+// console.log(result)
+
+// write a Program to add all digit of a number and give result in single digit 
+function addDigits(num) {
+    while (num >= 10) {
+        let sum = 0;
+        while (num > 0) {
+            sum += num % 10;  
+            num = Math.floor(num / 10);
+        }
+        num = sum; 
+    }
+    return num; 
+}
+
+const result = addDigits(123);
+console.log(` ${result}`);
+

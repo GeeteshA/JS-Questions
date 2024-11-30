@@ -1,0 +1,17 @@
+JAVASCRIPT NOTES--
+
+1. variables[let,var,const], data types
+2. Es6 and changes difference, methods and all
+3. Looping [if, else, for, switch,do, doWhile]
+4. Objects, Destructing, Array and array passing, Operators[rest,spread,ternary]
+5. Functions, Pure functions, High-order function, IIFE, Scopes- mutable & immutable property
+6. Debouncing, throttling, event delegation and capturing, Hoisting,  
+7. Async and Await & differ, try-catch, Parallel request
+8. Promises[own promise implementation] & Callback , Closure, 
+9. Methods -> [map, reduce, filter] & Pollyfills for them, this, call, bind, apply
+10.API ftching, Axios
+11. difference- [SPA, SSR, SSG], promise/callback, null/undefined, attribute/property, loop/map
+12. deep copy & shallow copy, Heap vs Stack memory, Javascript Execution context, Temporal-dead zone
+13. Inheritance-prototypal & prototype, OOPS in js
+14. Resursion in JS
+
